@@ -1,0 +1,11 @@
+@media (min-width: 1025px) and (max-width: 1248px) {
+    .center {
+        padding-left: calc(50% - 849px/2);
+        padding-right: calc(50% - 849px/2);
+    }
+
+    .footer__info {
+        display: flex;
+        gap: 60px;
+    }    
+}    
